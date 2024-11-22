@@ -1,2 +1,2 @@
 # Calculator_Project
- 
+ This calculator is a simple, graphical user interface (GUI)-based application built with Python's `tkinter` library. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The user can input numbers and operations via a set of buttons, and the result is displayed in an entry field. The application also features a clear button to reset the input and an equals button to calculate the result. It is designed for easy, interactive use, making it suitable for everyday calculations. The program handles basic mathematical expressions and provides error handling for invalid operations like division by zero.
